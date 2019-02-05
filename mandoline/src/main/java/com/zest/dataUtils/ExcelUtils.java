@@ -16,6 +16,7 @@ public class ExcelUtils {
 	public XSSFWorkbook workBook;
 	public XSSFSheet sheet;
 	public XSSFRow row;
+	public XSSFRow row1;
 	public XSSFCell cell;
 	public FileInputStream fis;
 	
